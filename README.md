@@ -1,8 +1,10 @@
 # Covid-19 India Portal
 
-Given two files `app.js` and a database file `covid19IndiaPortal.db` consisting of three tables `state`, `district` and `user`.
+This is a backend project which consists of the code to make APIs to perform different operations.
 
-Write APIs to perform operations on the tables `state`, `district` only after authentication of the user.
+There is a database file `covid19IndiaPortal.db` consisting of three tables `state`, `district` and `user`.
+
+The APIs to perform operations on the tables `state`, `district` only after authentication of the user are made in the project.
 
 The columns of the tables are given below,
 
@@ -25,8 +27,6 @@ The columns of the tables are given below,
 | cured         | INTEGER |
 | active        | INTEGER |
 | deaths        | INTEGER |
-
-You can use your previous code if required.
 
 #### Sample Valid User Credentials
 
@@ -290,8 +290,8 @@ Returns the statistics of total cases, cured, active, deaths of a specific state
 
 <br/>
 
-Use `npm install` to install the packages.
+Used `npm install` to install the packages.
 
-**Export the express instance using the default export syntax.**
+**Exported the express instance using the default export syntax.**
 
-**Use Common JS module syntax.**
+**Used Common JS module syntax.**
