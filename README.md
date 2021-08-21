@@ -1,6 +1,6 @@
 # Covid-19 India Portal
 
-This is a backend project which consists of the code to make APIs to perform different operations.
+This is a backend code to make APIs to perform different operations.
 
 There is a database file `covid19IndiaPortal.db` consisting of three tables `state`, `district` and `user`.
 
